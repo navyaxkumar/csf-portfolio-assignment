@@ -17,3 +17,11 @@ Just open `index.html` in any browser.
 - CSS
 - VS Code
 - Git & GitHub
+
+## Screenshots
+
+(Homepage Screenshot)
+![Homepage](images/screenshot1.png)
+
+(About Section Screenshot)
+![About](images/screenshot2.png)
