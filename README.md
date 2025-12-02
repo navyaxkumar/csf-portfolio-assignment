@@ -12,5 +12,8 @@ A simple static portfolio website built using HTML and CSS.
 ## How to Run
 Just open `index.html` in any browser.
 
-## Screenshots
-(Add screenshots after you create the images folder)
+## Technology Stack
+- HTML
+- CSS
+- VS Code
+- Git & GitHub
